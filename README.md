@@ -36,4 +36,5 @@ To understand and analyze their motion, we need a **clear and interactive animat
 ---
 
 ## Live Link
-- http://localhost:8501/
+-  http://10.147.82.227:8501
+  
