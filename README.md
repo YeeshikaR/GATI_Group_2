@@ -36,5 +36,5 @@ To understand and analyze their motion, we need a **clear and interactive animat
 ---
 
 ## Live Link
--  http://10.147.82.227:8501
+-  https://satelliteorbitanimator-vbd4pipbqylwn9dyvuw5ms.streamlit.app/
   
